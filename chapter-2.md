@@ -23,8 +23,24 @@ class Bisection2{
       y = f(root);
       if(Math.abs(y) < EPS) break;  // Корень найден. Выходим из цикла
       
-      // 
-    }
+      // Если на концах отрезка [a; root] функция имеет разные знаки:
+      if(f(a) * y < 0.0){
+        // Значит, корень здесь, и мы переносим точку b в точку root
+        b = root;
+      } else {
+        // В противном случае:
+        // переносим точку a в точку root
+        a = root;
+      }
+    } while(Math.abs(b - a) >= EPS);
+  }
+  
+  // Точка входа в программу:
+  public static void main(String[] args){
+    Bisection2 b2 = new Bisection2();
+    b2.bisect();
+    // Обращаемся к корню через метод доступа
+    System.out.println("x = " + b2.getRoot() + ", f() = " + b2.f(b2.getRoot()));
   }
 }
 ```
