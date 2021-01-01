@@ -1,6 +1,6 @@
 ## Глава 2. Объектно-ориентированное программирование в Java
 #### Листинг 2.1. Нахождение корня нелинейного уравнения методом бисекции
-```java
+```
 class Bisection2{
   private static double final EPS = 1e-8;  // Константа класса
   private double a = 0.0, b = 1.5, root;  // Закрытые поля экземпляра
@@ -18,7 +18,13 @@ class Bisection2{
   private void bisect(){
     // Локальная переменная - не поле
     double y = 0.0;
-    
+    do{
+      root = 0.5 * (a + b);
+      y = f(root);
+      if(Math.abs(y) < EPS) break;  // Корень найден. Выходим из цикла
+      
+      // 
+    }
   }
 }
 ```
