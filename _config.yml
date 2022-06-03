@@ -15,6 +15,13 @@ nav:
     - Предисловие: 'content/introduction/introduction'
     - Что такое Java: 'content/introduction/what-is-java'
     - Структура книги: 'content/introduction/book-structure'
+  - Глава 1. Встроенные типы данных операции над ними:
+    - Первая программа на Java: 'content/chapter-1/first-programm-on-java'
+  - Глава 2. Объектно-ориентированное программирование в Java:
+    - Парадигмы программирования: 'content/chapter-2/paradigmy-programmirovaniya'
+    - Как описать класс и подкласс?: 'content/chapter-2/kak-opisat-klass-i-podklass'
+    - Передача параметров в метод: 'content/chapter-2/peredacha-parametrov-v-metod'
+    - Перегрузка методов: 'content/chapter-2/peregruzka-metodov'
   - Демонстрация:
     - Markdown: demos/markdown
     - Другая страница: demos/another-page
