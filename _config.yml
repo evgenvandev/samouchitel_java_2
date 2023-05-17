@@ -19,6 +19,8 @@ nav:
     - Первая программа на Java: 'content/chapter-1/first-programm-on-java'
   - Глава 2. Объектно-ориентированное программирование в Java:
     - Парадигмы программирования: 'content/chapter-2/paradigmy-programmirovaniya'
+    - Принципы объектно-ориентированного программирования: 'content/chapter-2/principy-object-oriented-programming'
+    - Абстракция: 'content/chapter-2/abstraction'
     - Как описать класс и подкласс?: 'content/chapter-2/kak-opisat-klass-i-podklass'
     - Передача параметров в метод: 'content/chapter-2/peredacha-parametrov-v-metod'
     - Перегрузка методов: 'content/chapter-2/peregruzka-metodov'
