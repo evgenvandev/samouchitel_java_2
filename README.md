@@ -1,7 +1,7 @@
 ### Хабибуллин Ильдар
 # Самоучитель Java 2
 
-<img src = "cover.jpg" width = "300"> <img src = "end_cover.jpg" width = "300">
+<img src = "/images/cover.jpg" width = "300"> <img src = "/images/end_cover.jpg" width = "300">
 
 Санкт-Петербург
 
