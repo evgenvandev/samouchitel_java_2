@@ -8,18 +8,19 @@
 
 В языке Java, как и в языках C/C++, реализован только один способ - передача параметров по значению. Это приводит иногда к неожиданным результатам. В следующем примере
 
+### _Передача параметров в метод_
+
 ```java
-class Dummy{
-    
-    private static void f(String s){
-        s = "xxx";
-    }
-    
-    public static void main(String[] args){
-        String g = "yyyy";
-        f(g);
-        System.out.println(g);
-    }
+class Dummy{    
+  private static void f(String s){
+    s = "xxx";
+  }
+  
+  public static void main(String[] args){
+    String g = "yyyy";
+    f(g);
+    System.out.println(g);
+  }
 }
 ```
 
