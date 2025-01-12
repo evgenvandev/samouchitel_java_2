@@ -9,7 +9,7 @@
 
 2005
 
-[Оглавление](tconts.md)
+[Оглавление](readme.md)
 
 * [Введение](introduction.md)
 * [Часть I. Базовые конструкции языка Java](part-1/chapter-1.md)
