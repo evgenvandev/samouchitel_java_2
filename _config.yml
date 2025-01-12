@@ -9,6 +9,8 @@ exclude:
 
 remote_theme: marella/jekyll-theme-documentation
 
+toc_max: 4 # Max heading for ToC - h4
+
 permalink: pretty
 nav:
   - Введение:
