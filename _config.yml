@@ -12,7 +12,7 @@ remote_theme: marella/jekyll-theme-documentation
 permalink: pretty
 nav:
   - Введение:
-    - Предисловие: 'content/introduction/introduction'
+    - Введение: 'content/introduction/introduction'
     - Что такое Java: 'content/introduction/what-is-java'
     - Структура книги: 'content/introduction/book-structure'
   - Глава 1. Встроенные типы данных операции над ними:
