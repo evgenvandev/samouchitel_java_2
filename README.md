@@ -9,9 +9,9 @@
 
 2005
 
-[Оглавление](readme.md)
+[Оглавление](README.md)
 
-* [Введение](introduction.md)
+* [Введение](/introduction/introduction.md)
 * [Часть I. Базовые конструкции языка Java](part-1/chapter-1.md)
   * [Глава 1. Встроенные типы данных, операции над ними](part-1/chapter-1.md)
   * [Глава 2. Объектно-ориентированное программирование в Java](part-1/chapter-2.md)
