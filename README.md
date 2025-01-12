@@ -14,5 +14,6 @@
 * [Введение](/introduction/introduction.md)
 * [Часть I. Базовые конструкции языка Java](part-1/chapter-1.md)
   * [Глава 1. Встроенные типы данных, операции над ними](part-1/chapter-1/vstroennye-tipy-dannyh-operacii-nad-nimi.md)
+    * [Первая программа на Java](part-1/chapter-1/first-programm-on-java.md)
   * [Глава 2. Объектно-ориентированное программирование в Java](part-1/chapter-2/obektno-orientirovannoe-programmirovanie.md)
     * [Как описать класс и подкласс?](part-1/chapter-2/kak-opisat-klass-i-podklass.md)
