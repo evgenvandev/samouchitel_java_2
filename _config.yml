@@ -18,6 +18,7 @@ nav:
     - Что такое Java: 'content/introduction/what-is-java'
     - Структура книги: 'content/introduction/book-structure'
     - Выполнение Java-программы: 'content/introduction/vypolnenie-java-programmy'
+    - Что такое JDK?: 'content/introduction/what-is-jdk'
   - Глава 1. Встроенные типы данных операции над ними:
     - Первая программа на Java: 'content/chapter-1/first-programm-on-java'
   - Глава 2. Объектно-ориентированное программирование в Java:
