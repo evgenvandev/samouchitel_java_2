@@ -15,6 +15,7 @@
   * [Что такое Java?](/introduction/what-is-java.md)
   * [Структура книги](/introduction/book-structure.md)
   * [Выполнение Java-программы](/introduction/vypolnenie-java-programmy.md)
+  * [Что такое JDK?](/introduction/what-is-jdk.md)
 * [Часть I. Базовые конструкции языка Java](part-1/chapter-1.md)
   * [Глава 1. Встроенные типы данных, операции над ними](part-1/chapter-1/vstroennye-tipy-dannyh-operacii-nad-nimi.md)
     * [Первая программа на Java](part-1/chapter-1/first-programm-on-java.md)
