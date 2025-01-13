@@ -20,6 +20,7 @@ nav:
     - Выполнение Java-программы: 'content/introduction/vypolnenie-java-programmy'
     - Что такое JDK?: 'content/introduction/what-is-jdk'
     - Что такое JRE?: 'content/introduction/what-is-jre'
+    - Как установить JDK?: 'content/introduction/how-installing-jdk'
   - Глава 1. Встроенные типы данных операции над ними:
     - Первая программа на Java: 'content/chapter-1/first-programm-on-java'
   - Глава 2. Объектно-ориентированное программирование в Java:
